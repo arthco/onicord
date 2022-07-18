@@ -1,0 +1,20 @@
+{
+  "name": "onicord",
+  "version": "1.0.0",
+  "description": "JavaScript abstractions for Discord API",
+  "main": "source/index.js",
+  "type": "module",
+  "repository": "https://github.com/arthco/onicord",
+  "author": "arthco",
+  "license": "apache-2.0",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  },
+  "dependencies": {
+    "ws": "^8.8.1"
+  }
+}
