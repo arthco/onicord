@@ -1,6 +1,6 @@
 export const IDENTIFICATION = 'onicord';
 export const VERSION = '10';
-export const REPOSITORY = '';
+export const REPOSITORY = 'https://github.com/arthco/onicord';
 
 export const OPCODES = {
   DISPATCH: 0,
